@@ -1,0 +1,4 @@
+streamlit
+sckit-learn
+joblib
+numpy
